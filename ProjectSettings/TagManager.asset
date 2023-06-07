@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Tank
+  - Enemy
+  - map
+  - tru
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - map
+  - ObjectMap
+  - MyUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Minimap
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map
+    uniqueID: 446895473
+    locked: 0
+  - name: bullet
+    uniqueID: 2413713245
+    locked: 0
+  - name: ObjectMap
+    uniqueID: 2625251399
+    locked: 0
+  - name: UI
+    uniqueID: 2309266113
+    locked: 0
